@@ -12,6 +12,9 @@ body{
     color: #fff;
     font-family: "Poppins", serif;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 
@@ -21,8 +24,5 @@ h1{
     text-align: center;
     text-transform: uppercase;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
     
 }
